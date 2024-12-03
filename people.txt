@@ -1,0 +1,11 @@
+Sasha Kim,Sasha123!,Client
+Emery Blake,Emery123!,Client
+Noor Abbasi,Noor123!,Premium Client
+Zuri Adebayo,Zuri123!,Premium Client
+Mikael Chen,Mikael123!,Financial Advisor
+Jordan Riley,Jordan123!,Financial Advisor
+Ellis Nakamura,Ellis123!,Financial Planner
+Harper Diaz,Harper123!,Financial Planner
+Alex Hayes,Alex123!,Teller
+Adair Patel,Adair123!,Teller
+Firas,Firas123!,Client
